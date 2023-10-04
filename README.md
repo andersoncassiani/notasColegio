@@ -1,3 +1,5 @@
+[![Imagen](WebApp "Imagen del proyecto")](https://github.com/andersoncassiani/notasColegio/blob/main/public/img/app-web.png "Imagen")
+
 # Prueba tecnica, notas de un estudiante en un Colegio.
 
 <p>
