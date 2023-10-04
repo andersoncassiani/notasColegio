@@ -20,7 +20,7 @@ Para mirar la API solo se debe colocar la siguiente URL: http://127.0.0.1:8000/a
 
 En la cual vemos que la letra que mas se repite es la "s" en los nombres de las cinco personas.
 
-<b>Version de PHP: </b> 8.1.10
+<b>Version de PHP: </b> 8.1.10 <br>
 <b>Version de Laravel: </b> 10
 </p>
 
