@@ -1,4 +1,4 @@
-[![Imagen](WebApp "Imagen del proyecto")](https://github.com/andersoncassiani/notasColegio/blob/main/public/img/app-web.png "Imagen")
+[![Imagen](WebApp "Imagen del proyecto")](public/img/app-web.png)
 
 # Prueba tecnica, notas de un estudiante en un Colegio.
 
@@ -19,6 +19,9 @@ Para la configuracion de la base de datos agregue el archivo que contiene las ta
 Para mirar la API solo se debe colocar la siguiente URL: http://127.0.0.1:8000/api/randomuser
 
 En la cual vemos que la letra que mas se repite es la "s" en los nombres de las cinco personas.
+
+<b>Version de PHP: </b> 8.1.10
+<b>Version de Laravel: </b> 10
 </p>
 
 
