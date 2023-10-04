@@ -1,4 +1,4 @@
-# Pueba tecnica, notas de un estudiante en un Colegio.
+# Prueba tecnica, notas de un estudiante en un Colegio.
 
 <p>
 Es esta aplicacion web, basicamente lo que hacemos es un CRUD sencillo con los datos de un estudiante, donde ingresamos sus datos como nombre, materia, nota y curso.
